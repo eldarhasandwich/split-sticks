@@ -1,0 +1,24 @@
+{
+  "name": "split-sticks",
+  "version": "1.0.0",
+  "description": "Stock trading bot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eldarhasandwich/split-sticks.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eldarhasandwich/split-sticks/issues"
+  },
+  "homepage": "https://github.com/eldarhasandwich/split-sticks#readme",
+  "devDependencies": {
+    "ts-node": "^8.10.2",
+    "typescript": "^4.0.2"
+  }
+}
